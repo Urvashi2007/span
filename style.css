@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+
+}
+#sp{
+    border: brown;
+    border-style: dotted;
+}
+#dv{
+    border: brown;
+    border-style: dotted;
+}
+
+#img{
+    width: 100px;
+}
